@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+
+html,body {
+    height:100%;
+    font-family: 'Ubuntu', sans-serif;
+    background: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/cubes.png');
+}
+
+
+#layoutBody {
+    min-height:100%;
+    padding-bottom:3.5em;
+}
+
+.footer {
+    height: 3.5em;
+    text-align: center;
+    color: #ffffff;
+    padding-top:1.2em;
+    font-size: 12px;
+    margin-top: -3.5em;
+}
+
+.alert {
+    margin:2em;
+}
